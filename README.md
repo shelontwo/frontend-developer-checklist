@@ -1,9 +1,5 @@
 # Frontend-developer's checklist
 
-## Usage
-
-Open [source code of this file](https://raw.githubusercontent.com/albburtsev/frontend-developer-checklist/master/README.md) and copy next chapter into issue of your project. Enjoy!
-
 ## Checklist
 
 ### Common stuff: pages, styles, etc
@@ -56,7 +52,6 @@ Open [source code of this file](https://raw.githubusercontent.com/albburtsev/fro
  - [ ] [Autoprefixer](https://github.com/postcss/autoprefixer) for all styles
  - [ ] Don't save builds in project's VCS
  - [ ] Check project's deployment (all stuff must be in config files: package.json, bower.json)
- - [ ] ```npm test``` required
 
 ---------------------------------------
 
